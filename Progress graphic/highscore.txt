@@ -1,0 +1,38 @@
+void main()
+{
+cout<<"                                   +hddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddh+"<<endl;
+cout<<"                                   d                                                                                                  d"<<endl;
+cout<<"                                   m  mmdhhhhhhhhhhhhdmmmmmdhhhhhhhhhhhhmmmmmdhddddddddddhdmmmmmmhddddddddddhdmmmmmmdhhhhhhhhhhhhdmm  d"<<endl;
+cout<<"                                   d  dmhyyyyyyyyyyyyhmdddmyyyyyyyyyyyyyddddmdyyyyyyyyyyyyhmdddddyyyyyyyyyyyyymddddmhyyyyyyyyyyyydmd  d"<<endl;
+cout<<"                                   m  mmhyys:.```-syyhmmmmNyyy+-```./yyymmmmmdyyy/.``.:oyyhmmmmmdyy-.....-+yyhNmmmmNhyy.``````:yydmm  d"<<endl;
+cout<<"                                   m  mmhyy. .os- `yyhmmmmmyy+  /oo` -yymmmmmdyy. .oo: `oyhmmmmmdyy. .oo/  +yhNmmmmmhyy` :oooosyydmm  d"<<endl;
+cout<<"                                   d  dmhhy` /hyyooyhhmdddmhh: .yhh+-:yhmmddmdys  +hyy` /yhmdddddhy. -hhy. -hhmddddmhyy` /hhyyyyhdmd  d"<<endl;
+cout<<"                                   m  mmyyy: `:+syhhyymmmmmsy: .yhhhhhhydmmmmhso  +hhy` /hymmmmmhyy. -yy+` /hsmmmmmmsyy` :sssshhhhmm  d"<<endl;
+cout<<"                                   d  dmhhhyo/:..-+hhymdddmyy/-:hhhhhhhhdmddmhys--ohhy--+dymddddhyy:-----:ohdymddddmyyy------/hhhhmd  d"<<endl;
+cout<<"                                   m  mmhyyyyyyy/ `syhmmmmmyy: .yyyyyyyydmmmmhso` +yyy` /yymmmmmdyy.`-s. -yyyymmmmmmysy` /yyyyyyydmm  d"<<endl;
+cout<<"                                   m  mmhys::syyo  oyhmmmmmyy: `yyy:`.yymmmmmdys` +yys` /yhmmmmmdyy. -ys` :yyhmmmmmmhyy` /yyyyyyydmm  d"<<endl;
+cout<<"                                   d  dmhyy. .//. .yyhddddmyyo` -+/` /yyddddddyy- ./+- `syhmdddddyy. -hy+  +yhmddddmhyy` -////oyyddd  d"<<endl;
+cout<<"                                   m  mmhhhy+:--:+yhhhdmmmmhyhs/---:oyhhdmmmmdhhy+-..-/shyhmmmmddhy/-/hhy/-:yhmmmmmmhyy:------/hhdmm  d"<<endl;
+cout<<"                                   m  mmdhhhhhhhhhhhhddmmmmhhhhhhhhhhhhhdmmmmdhhhhhhhhhhhhhmmmmddhhhhhhhhhhhhhmmmmmmhhhhhhhhhhhhhdmm  d"<<endl;
+cout<<"                                   d  dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd  d"<<endl;
+cout<<"                                   m  mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm  d"<<endl;
+cout<<"                                   m  mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm  d"<<endl;
+cout<<"                                   d  ddmmmmmmmmmmmmmmdmddmmmmmmmmmmmmmmdmddmmmmmmmmmmmmmmmmddmddmmmmmmmmmmmmmddmddmmmmmmmmmmmmmmmdd  d"<<endl;
+cout<<"                                   m  mmdyyyyyyyyyyyydmmmmmyyyyyyyyyyyyymmmmmdyyyyyyyyyyyyhmmmmmmyyyyyyyyyyyyhmmmmmmhyyyyyyyyyyyydmm  d"<<endl;
+cout<<"                                   d  dmhys/////+syyydmdddmyyyyo///+syyymmddmdyyyyy//syyyyhmdddddyy+/////oyyyhmddddmhyo/////+syyydmd  d"<<endl;
+cout<<"                                   m  mmdy+  .-.` :yydmmmmNyys. .-. `+yymmmmmdyyyy+  -yyyyhmmmmmdyy. `--` `oyhNmmmmmhy/  --. `/yydmm  d"<<endl;
+cout<<"                                   m  mmdy+  oyy/ `sydmmmmNhy: `yyy: `yymmmmmdyyyy.  `syyyhNmmmmdyy. -yyy` :yhNmmmmmhy+ `syy/ `sydmm  d"<<endl;
+cout<<"                                   d  dmdh+  oyy/ `shdmdddmhh- .yyh/ `yhmdddmmhyy+ `` :hyhdmddddmhy. -hyy` :hhmddddmdh+ `syyo  shdmd  d"<<endl;
+cout<<"                                   m  mmohs--::---ohhommmmmoh/-:hdd+--hshmmmmysdd/-+o--hddommmmmyyh:-:++:-:ydommmmmmoyo--hdds--yhymm  d"<<endl;
+cout<<"                                   m  mmdh+ `/++- `shdmmmmmhy- .syy: `shmmmmmdhs+ `os. :yhhmmmmmdhs. .:` :syhhmmmmmmhy/ `oyy+ `oddmm  d"<<endl;
+cout<<"                                   d  dmhy+ `oyys  +yhmdddmyy- .yyy/ `yymdddmdyy- `..` `syhmdddddyy. -y/``oyyymddddmhy/ `syy+ `oydmd  d"<<endl;
+cout<<"                                   m  mmdy+ `oys: `oydmmmmmyy/ `oys. .yymmmmmdyo` /+++` /yhmmmmddyy. -yy- `syhmmmmmmhy/ `syo. .yydmm  d"<<endl;
+cout<<"                                   d  dmdyo     `.oyydddddmhyy:` ```-syymdddddy: .yyyy: `yhmdddddyy. -yyy. -yhmddddmhy+     `:syyddd  d"<<endl;
+cout<<"                                   m  mmdhyyyyyyyhhhhddmmmmhhhhysssyhhhhmmmmmdyyyyhhhhyyyyhmmmmddhyyyyhhhyyyyhmmmmmmhhyyyyyyyhhhhdmm  d"<<endl;
+cout<<"                                   m  mmddddddddddddddmmmmmddddddddddddddmmmmddddddddddddddmmmmmmdddddddddddddmmmmmmddddddddddddddmm  d"<<endl;
+cout<<"                                   d  dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd  d"<<endl;
+cout<<"                                   m  mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm  d"<<endl;
+cout<<"                                   m                                                                                                  d"<<endl;
+cout<<"                                   :ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddy:"<<endl;
+getch();
+}

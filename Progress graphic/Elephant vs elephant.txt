@@ -1,0 +1,41 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+cout<<"                  `:+syyyyssso+:`"<<"                                                                                        `:+syyyyssso+:`"<<endl;
+cout<<"               :shs/-`       .:odh+`"<<"                                                                                  :shs/-`       .:odh+`"<<endl;
+cout<<"  .:/+++/-`  /mh:                -ym/     .---."<<"                                                          .:/+++/-`  /mh:                -ym/     .---."<<endl;
+cout<<"odms+/:::+syhNs     `-       .     +N:/ohdddmNNNh-"<<"                                                     odms+/:::+syhNs     `-       .     +N:/ohdddmNNNh-"<<endl;
+cout<<"`om.        dd     /o`       +/.    hNs:`     `N/"<<"                                                      `om.        dd     /o`       +/.    hNs:`     `N/"<<endl;
+cout<<"  mh        hs  `/+.                ss        /N"<<"                                                         mh        hs  `/+.                ss        /N"<<endl;
+cout<<"  mm        om      `:+++++oos+`    m/        yN`"<<"                                                        mm        om      `:+++++oos+`    m/        yN`"<<endl;
+cout<<" .Nd        oN     .:. `.-:::-.    -N:        oN:"<<"                                                       .Nd        oN     .:. `.-:::-.    -N:        oN:"<<endl;
+cout<<" /Ns       .m/o`      --:::---:-   `N:        :Ns"<<"                                                       /Ns       .m/o`      --:::---:-   `N:        :Ns"<<endl;
+cout<<" sN:       sd dy      ://////:`   :/m:        .Ny"<<"                                                       sN:       sd dy      ://////:`   :/m:        .Ny"<<endl;
+cout<<"hN`       :N/`h       `--:::     mdd         .No"<<"                                                       hN`       :N/`h       `--:::     mdd         .No"<<endl;
+cout<<"sh         /myo         -//.     mNo         yh`"<<"                                                       sh         /myo         -//.     mNo         yh`"<<endl;
+cout<<" -h         /mo          .:`      +Ny        sd`"<<"                                                        -h         /mo          .:`      +Ny        sd`"<<endl;
+cout<<"  h:       :N+                     :N+      ym."<<"                             -    `-+++/:-`"<<"               h:       :N+                     :N+      ym."<<endl;
+cout<<"  .d.   `/omN`.`       `//:`     `.`dhy+`  sm."<<"                             .s: .smmmdy+```"<<"               .d.   `/omN`.`       `//:`     `.`dhy+`  sm."<<endl;
+cout<<"   -d:-hy/`+Nhmsy.             .ss/yN- /m+-N:"<<"                 . :         `ydh+NNmo."<<"                      -d:-hy/`+Nhmsy.             .ss/yN- /m+-N:"<<endl;
+cout<<"    .hN/    :mo :N/    `--.   `mN+ `N:  .ohs"<<"                  -/:+.       -ddmMNm-"<<"                         .hN/    :mo :N/    `--.   `mN+ `N:  .ohs"<<endl;
+cout<<"      `      m. :dN:     ``   :NhN- mo"<<"                        `os+s.      +dmNMNh"<<"                                   m. :dN:     ``   :NhN- mo"<<endl;
+cout<<"             N` d:sm`   -..`  +N+ys mo"<<"                         .syss-     ymmdMNN/"<<"                                  N` d:sm`   -..`  +N+ys mo"<<endl;
+cout<<"             d:-N``m+         oN/+h-N:"<<"                          :yhyy-   -mmm.oNNmdso/:."<<"                            d:-N``m+         oN/+h-N:"<<endl;
+cout<<"             /h/d  sh   -::-  +N:/hyd"<<"                            :hddh-  ymmh  -sdmmmddhy/`"<<"                         /h/d  sh   -::-  +N:/hyd"<<endl;
+cout<<"              +yh  +m  -//:`  yN-sNy."<<"                             /dmmd--mNN:     .-:+hdhhs."<<"                         +yh  +m  -//:`  yN-sNy."<<endl;
+cout<<"                   sm  `+o+/ .NN`"<<"                                  /dmmddNNd           /hhhs"<<"                              sm  `+o+/ .NN`"<<endl;
+cout<<"                  `ms   .:/. yN+"<<"                                    :dNNNNN+           -hhhy"<<"                             `ms   .:/. yN+"<<endl;
+cout<<"                 .hs   --.` +Ns"<<"                                      -dNNNm`          -yhhy:"<<"                            .hs   --.` +Ns"<<endl;
+cout<<"                +m/  ./:.` +Ns"<<"                                        -dMMo   `  .`.-ohhhy/"<<"                            +m/  ./:.` +Ns"<<endl;
+cout<<"              .hd- .-  `` oNo"<<"                                          .dN`    .-sddddhy+."<<"                           .hd- .-  `` oNo"<<endl;
+cout<<"          `-:+Ny`   .:-``hm/"<<"                                            `+      `-/++:-`"<<"                         `-:+Ny`   .:-``hm/"<<endl;
+cout<<"         .d:+Ny   ::-  /my."<<"                                                                                     .d:+Ny   ::-  /my."<<endl;
+cout<<"        .y:+Nd`:`    :hh-"<<"                                                                                      .y:+Nd`:`    :hh-"<<endl;
+cout<<"        h- :N: `-- :hymo"<<"                                                                                       h- :N: `-- :hymo"<<endl;
+cout<<"        s+/sN/-. `hmm.m+"<<"                                                                                       s+/sN/-. `hmm.m+"<<endl;
+cout<<"         `+mN:   -:.`sm`"<<"                                                                                        `+mN:   -:.`sm`"<<endl;
+cout<<"           `yd:`  `/hh."<<"                                                                                           `yd:`  `/hh."<<endl;
+cout<<"             /yyssys:"<<"                                                                                               /yyssys:"<<endl;
+getch();
+}

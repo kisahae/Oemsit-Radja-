@@ -1,0 +1,50 @@
+#include<conio.h>
+#include<iostream.h>
+void main()
+{
+cout<<"                                                                                                               "<<endl;
+cout<<"                                                                                                               "<<endl;
+cout<<"                                                                                                            `-`"<<endl;
+cout<<"                                                                                                       .:/+o/+o"<<endl;
+cout<<"                                                                                                 `-:+o+/-`    s/"<<endl;
+cout<<"                                                                                            .-/+o+:.`         .y-"<<endl;
+cout<<"                                                                                      `.:+o+/-.                -y`"<<endl;
+cout<<"                                                                                 `-/+o+:-`                      +o"<<endl;
+cout<<"                                                                           `.:+o+/:.              `-/+.          s/"<<endl;
+cout<<"                                                                      `-/+o+:-`             `..`    -/           .y-"<<endl;
+cout<<"                                                                 .:/oo/:.              ``./sy+       `.           :y`"<<endl;
+cout<<"                                                           `-:+o+/-`             ```       oyy-       .`           +o"<<endl;
+cout<<"                                                      .-/+o+:.`               -```.:so/.   `yyy`       -            s/"<<endl;
+cout<<"                                                `.:+o+/-.              ..   .s.      +yy+   -yyo        -           .y-"<<endl;
+cout<<"                                            ./+o+:-`               `.:y/   `yy.       +yyo   +yy/       -            :y`"<<endl;
+cout<<"                                            .y-             .-/:`     :`   -yy/        syy.   oyy:     ..             +o"<<endl;
+cout<<"                                             :y`         `.-+yyy/.    -    `yyy.       -yy.    :+o+:...               `s/"<<endl;
+cout<<"                                              +o             `:syyo- `.     :yys.      `y+                             .y-"<<endl;
+cout<<"                                              `s/               .+yyy+       .oyy-     :/                               :s`"<<endl;
+cout<<"                                               .y-                `oyy:        `://-```                         `.:+.    +o"<<endl;
+cout<<"                                                :y`                `syy.                                   `.`````./o`   `s/"<<endl;
+cout<<"                                                 +o                 .yys-.``                          ``./yy/    -  `:    .y-"<<endl;
+cout<<"                                                 `s/              `..-.                         `  /      oyy-   /.        :s`"<<endl;
+cout<<"                                                  .y-                                       `.`` `-+/     .yys``-os`   -`   +o"<<endl;
+cout<<"                                                   :s`                                     ./       ``     -yys`  ./   `o   `s/"<<endl;
+cout<<"                                                    +o                          `.``.:++:. -y/-...----.     +yy/   ``  -y/   .y-"<<endl;
+cout<<"                                                    `s/                        :o      :yyo`/yyyyyyyyyys.    syy-    `:o+:    :s`"<<endl;
+cout<<"                                                     .y-             `        :y+       -yys` ........-oy`   .yys-....         +o"<<endl;
+cout<<"                                                      :s`      `.:/.`         sys        /yy+ -.        s` ``.:-`              `s/"<<endl;
+cout<<"                                                       +o    `..syy-          oyy/        syo  o/.    `..                    .-/oo`"<<endl;
+cout<<"                                                       `s/      .yys`         -syy:       +y-  `o`.```                 `.:+o+/-."<<endl;
+cout<<"                                                        .y.      -yyo         :.oyy/      o-                      `-/+o+:-`"<<endl;
+cout<<"                                                         :s`      +yy/        :+ .:++:.``.                   .:+oo/:."<<endl;
+cout<<"                                                          +o       syy-      `sy-                      `-/+o+/-`"<<endl;
+cout<<"                                                          `s/      .yys`  `.-/-.                  .:/oo/:."<<endl;
+cout<<"                                                           .y.      :ys/..`                 `-:+o+/-`"<<endl;
+cout<<"                                                            :s`   `..                  .-/+o+:.`"<<endl;
+cout<<"                                                             oo                  `.:+o+/-."<<endl;
+cout<<"                                                             `s:            `-/+o+:-`"<<endl;
+cout<<"                                                              .y.     `.:+o+/:."<<endl;
+cout<<"                                                               :s.-/+o+/-`"<<endl;
+cout<<"                                                                //:."<<endl;
+cout<<"                                                                                            "<<endl;
+getch();
+}
+

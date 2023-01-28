@@ -1,0 +1,45 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+cout<<"                            `.---.```"<<"                                                                                    `-.                              .-`"<<endl;
+cout<<"                       ./shmmmmmmmmmmdys+-"<<"                                                                                  `-`                          `-`"<<endl;
+cout<<"                    `+hdmNmmmmmmmmmNNNNNmmdo."<<"                                                                                 -.                        .-"<<endl;
+cout<<"                  -ommmmmmNNNmmmmmmmmmNNNNNmd/"<<"                                                                                 -.                      .-"<<endl;
+cout<<"               :ymmNmmmmNmmNmmmmmNNNNNNNNNNmmho-"<<"                                                                                :.                    .:"<<endl;
+cout<<"               -dmmmNNmNNmmmmmmmmmmmmNNNNNNNNmddds."<<"                                                                              :.                  .:"<<endl;
+cout<<"               /mmmmmmNNmmmmmNmmmddmmNNNNNNNNmmmdmd-"<<"                                                                              ::`              `::"<<endl;
+cout<<"              -mmNNmdyhdmNNNNmmdddmmmNNNNNmmmddddmmd:"<<"                                                                              `::-` `-`.-` `-::`"<<endl;
+cout<<"             `hmmmmds//+oyhddddhhhddddddddhhhyyydmNNm-"<<"                                                                  .              `:/hy//yy/:`              ."<<endl;
+cout<<"            .ymmmmdy+/::::::::::://+++++++//++oohmmNmo"<<"                                                                  .-`             .yhhdddhy.             `-."<<endl;
+cout<<"            /dmNmmhs+/:::::-------------:::///++smmNms"<<"                                                                    ..``         .hhhhhhhhhy`         `..."<<endl;
+cout<<"            -dmmmds+//::::---------------::///++odmNm:"<<"                                                                       .-        yhhhhhhhhhhs        -."<<endl;
+cout<<"          ::-ddmdy+////::::---::--:::::::::///++sdmNd."<<"                                                                         :.     `hyoooyyhhyyh       .:"<<endl;
+cout<<"          //:+dmho//////:::-----:::::::::::///++odmmy"<<"                               .s: .smmmdy+```"<<"                             /-     shhhhhhhhhho     -/"<<endl;
+cout<<"          .::/hdo////+sss+/:-----:::--:::::/+oooohmdo"<<"                  . :         `ydh+NNmo."<<"                                    +-     `./hddh/.`     -+"<<endl;
+cout<<"           -:/hh/://+ossyhhs+/::-::::::::+syhhhy+ydy/"<<"                  -/:+.       -ddmMNm-"<<"                                       +.     shyyhhho     .+"<<endl;
+cout<<"           --:os/:://+ooyysyyys/:::://+oyyyysssy+yy/`"<<"                  `os+s.      +dmNMNh"<<"                                         ++`   yhhhhhhs   `++"<<endl;
+cout<<"           -::////::/++/oo//oos+:::/ossoyys/osoo+h:"<<"                     .syss-     ymmdMNN/"<<"                                         -s+` -ddhddd- `+s-"<<endl;
+cout<<"           .-:////::::::::://///:::/ooo/+o/:+o++++"<<"                       :yhyy-   -mmm.oNNmdso/:."<<"                                     :o+ohhhhhho+o:"<<endl;
+cout<<"           `-::///:::------:::::::::++/::///+++++"<<"                         :hddh-  ymmh  -sdmmmddhy/`"<<"                                      shyhho"<<endl;
+cout<<"             ``.///::-----::/:::::::+++/::::/+++/"<<"                          /dmmd--mNN:     .-:+hdhhs."<<"                      `-...--...`   `dddddh    `...--...-`"<<endl;
+cout<<"               `///:::-:://///:::---/+++/:::///-`"<<"                           /dmmddNNd           /hhhs"<<"                  `-::----://++o++//sdyyhhds//++o++//:----::-`"<<endl;
+cout<<"              .:+//////+++//+oo+/:::+oo++//////"<<"                              :dNNNNN+           -hhhy"<<"               `:::`                -hhhhhh-                .:::`"<<endl;
+cout<<"            `/yds+//+/+oso++//+oo++osssoo++/++:"<<"                               -dNNNm`          -yhhy:"<<"               `....             `-oy+ohh++yo-`             ....`"<<endl;
+cout<<"          `:oyhy-/++//+o+ooo++/++ossssyyso++++`"<<"                                -dMMo   `  .`.-ohhhy/"<<"               ````      -+s/-`      -sdhdds.      `-/s+-      ````"<<endl;
+cout<<"       `:+oyys+-./o+++////++++++oossssso+++os-"<<"                                  .dN`    .-sddddhy+."<<"                       .+o/.        `ohhdhddhh+         ./o+."<<endl;
+cout<<"    `./ossssso-...+ooo+/////+++++oooooo++oshdyo:`"<<"                                `+      `-/++:-`"<<"                      -//:`           sdhhhddhhhdo           `://-"<<endl;
+cout<<"`-:+sssssyyss/..```-++o+/////://///+++++osyddhyys+:`"<<"                                                                  ::`             :dddhshdddddd.             `::"<<endl;
+cout<<"sssysssssssss:`.`````-:++++///////++++///soyhhhhyhhyo/.`"<<"                                                             `/               +dhhdddddddhd:               /`"<<endl;
+cout<<"ssyssysssysso:`````````.-/++ooooooo/::://++shhhhhyhhhhyso/-`"<<"                                                         -/               :dhhhhddhhhhd-               /-"<<endl;
+cout<<"yyssssssyysss/````````````.:+sss+:--::://++shhhhhhhyhhhyyyyy"<<"                                                         /-                sddhhhhhdddo                -/"<<endl;
+cout<<"yssssssssssss+`````     ````-+ss-..--::::/:syyhhhhyyyhhhhyyy"<<"                                                         /-                 /hdhddddh:                 -/"<<endl;
+cout<<"ysssssssssssso.``         `-hddmd:...------syyyyyyyyyyyhhyyy"<<"                                                         :                    -/++/.                    :"<<endl;
+cout<<"ssssssssssssss:`          `-ydddd/........-sssyyyyyyyyyyyyyy"<<"                                                        `-                                              -`"<<endl;
+cout<<"ysssssssssssos+``        ...+mddo--.......:syyyyyyyyyyyyyyyy"<<"                                                        -`                                              `-"<<endl;
+cout<<"yhyssssssssssos-` ```   ````+dhd.```.``.../ssyyyyyyyyyhhhyys"<<"                                                        -                                                -"<<endl;
+cout<<"sssyysssssyssss+``` `` ``` -hhhd/`````.```osyyyyyyyyhhyyyyyy"<<"                                                        -                                                -"<<endl;
+cout<<"yyyssyssssssssso.````````` yyhhdh````````.ssyyyyyyyyyyyyyyys"<<"                                                        :                                                :"<<endl;
+cout<<"ssssssssssssssss/`````````.hhhhdd:```````:sssyyyysyyyyyyyyyy"<<"                                                       -`                                                `-"<<endl;
+getch();
+}

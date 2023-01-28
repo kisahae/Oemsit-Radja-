@@ -1,0 +1,45 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+cout<<"                            `.---.```"<<"                                                                                          `.---.```"<<endl;
+cout<<"                       ./shmmmmmmmmmmdys+-"<<"                                                                                ./shmmmmmmmmmmdys+-"<<endl;
+cout<<"                    `+hdmNmmmmmmmmmNNNNNmmdo."<<"                                                                          `+hdmNmmmmmmmmmNNNNNmmdo."<<endl;
+cout<<"                  -ommmmmmNNNmmmmmmmmmNNNNNmd/"<<"                                                                       -ommmmmmNNNmmmmmmmmmNNNNNmd/"<<endl;
+cout<<"               :ymmNmmmmNmmNmmmmmNNNNNNNNNNmmho-"<<"                                                                  :ymmNmmmmNmmNmmmmmNNNNNNNNNNmmho-"<<endl;
+cout<<"               -dmmmNNmNNmmmmmmmmmmmmNNNNNNNNmddds."<<"                                                               -dmmmNNmNNmmmmmmmmmmmmNNNNNNNNmddds."<<endl;
+cout<<"               /mmmmmmNNmmmmmNmmmddmmNNNNNNNNmmmdmd-"<<"                                                              /mmmmmmNNmmmmmNmmmddmmNNNNNNNNmmmdmd-"<<endl;
+cout<<"              -mmNNmdyhdmNNNNmmdddmmmNNNNNmmmddddmmd:"<<"                                                            -mmNNmdyhdmNNNNmmdddmmmNNNNNmmmddddmmd:"<<endl;
+cout<<"             `hmmmmds//+oyhddddhhhddddddddhhhyyydmNNm-"<<"                                                          `hmmmmds//+oyhddddhhhddddddddhhhyyydmNNm-"<<endl;
+cout<<"            .ymmmmdy+/::::::::::://+++++++//++oohmmNmo"<<"                                                         .ymmmmdy+/::::::::::://+++++++//++oohmmNmo"<<endl;
+cout<<"            /dmNmmhs+/:::::-------------:::///++smmNms"<<"                                                         /dmNmmhs+/:::::-------------:::///++smmNms"<<endl;
+cout<<"            -dmmmds+//::::---------------::///++odmNm:"<<"                                                         -dmmmds+//::::---------------::///++odmNm:"<<endl;
+cout<<"          ::-ddmdy+////::::---::--:::::::::///++sdmNd."<<"                                                       ::-ddmdy+////::::---::--:::::::::///++sdmNd."<<endl;
+cout<<"          //:+dmho//////:::-----:::::::::::///++odmmy"<<"                          .s: .smmmdy+```"<<"               //:+dmho//////:::-----:::::::::::///++odmmy"<<endl;
+cout<<"          .::/hdo////+sss+/:-----:::--:::::/+oooohmdo"<<"             . :         `ydh+NNmo."<<"                     .::/hdo////+sss+/:-----:::--:::::/+oooohmdo"<<endl;
+cout<<"           -:/hh/://+ossyhhs+/::-::::::::+syhhhy+ydy/"<<"             -/:+.       -ddmMNm-"<<"                        -:/hh/://+ossyhhs+/::-::::::::+syhhhy+ydy/"<<endl;
+cout<<"           --:os/:://+ooyysyyys/:::://+oyyyysssy+yy/`"<<"             `os+s.      +dmNMNh"<<"                         --:os/:://+ooyysyyys/:::://+oyyyysssy+yy/`"<<endl;
+cout<<"           -::////::/++/oo//oos+:::/ossoyys/osoo+h:"<<"                .syss-     ymmdMNN/"<<"                        -::////::/++/oo//oos+:::/ossoyys/osoo+h:"<<endl;
+cout<<"           .-:////::::::::://///:::/ooo/+o/:+o++++"<<"                  :yhyy-   -mmm.oNNmdso/:."<<"                  .-:////::::::::://///:::/ooo/+o/:+o++++"<<endl;
+cout<<"           `-::///:::------:::::::::++/::///+++++"<<"                    :hddh-  ymmh  -sdmmmddhy/`"<<"               `-::///:::------:::::::::++/::///+++++"<<endl;
+cout<<"             ``.///::-----::/:::::::+++/::::/+++/"<<"                     /dmmd--mNN:     .-:+hdhhs."<<"                ``.///::-----::/:::::::+++/::::/+++/"<<endl;
+cout<<"               `///:::-:://///:::---/+++/:::///-`"<<"                      /dmmddNNd           /hhhs"<<"                  `///:::-:://///:::---/+++/:::///-`"<<endl;
+cout<<"              .:+//////+++//+oo+/:::+oo++//////"<<"                         :dNNNNN+           -hhhy"<<"                 .:+//////+++//+oo+/:::+oo++//////"<<endl;
+cout<<"            `/yds+//+/+oso++//+oo++osssoo++/++:"<<"                          -dNNNm`          -yhhy:"<<"               `/yds+//+/+oso++//+oo++osssoo++/++:"<<endl;
+cout<<"          `:oyhy-/++//+o+ooo++/++ossssyyso++++`"<<"                           -dMMo   `  .`.-ohhhy/"<<"              `:oyhy-/++//+o+ooo++/++ossssyyso++++`"<<endl;
+cout<<"       `:+oyys+-./o+++////++++++oossssso+++os-"<<"                             .dN`    .-sddddhy+."<<"            `:+oyys+-./o+++////++++++oossssso+++os-"<<endl;
+cout<<"    `./ossssso-...+ooo+/////+++++oooooo++oshdyo:`"<<"                           `+      `-/++:-`"<<"           `./ossssso-...+ooo+/////+++++oooooo++oshdyo:`"<<endl;
+cout<<"`-:+sssssyyss/..```-++o+/////://///+++++osyddhyys+:`"<<"                                               `-:+sssssyyss/..```-++o+/////://///+++++osyddhyys+:`"<<endl;
+cout<<"sssysssssssss:`.`````-:++++///////++++///soyhhhhyhhyo/.`"<<"                                           sssysssssssss:`.`````-:++++///////++++///soyhhhhyhhyo/.`"<<endl;
+cout<<"ssyssysssysso:`````````.-/++ooooooo/::://++shhhhhyhhhhyso/-`"<<"                                       ssyssysssysso:`````````.-/++ooooooo/::://++shhhhhyhhhhyso/-`"<<endl;
+cout<<"yyssssssyysss/````````````.:+sss+:--::://++shhhhhhhyhhhyyyyy"<<"                                       yyssssssyysss/````````````.:+sss+:--::://++shhhhhhhyhhhyyyyy"<<endl;
+cout<<"yssssssssssss+`````     ````-+ss-..--::::/:syyhhhhyyyhhhhyyy"<<"                                       yssssssssssss+`````     ````-+ss-..--::::/:syyhhhhyyyhhhhyyy"<<endl;
+cout<<"ysssssssssssso.``         `-hddmd:...------syyyyyyyyyyyhhyyy"<<"                                       ysssssssssssso.``         `-hddmd:...------syyyyyyyyyyyhhyyy"<<endl;
+cout<<"ssssssssssssss:`          `-ydddd/........-sssyyyyyyyyyyyyyy"<<"                                       ssssssssssssss:`          `-ydddd/........-sssyyyyyyyyyyyyyy"<<endl;
+cout<<"ysssssssssssos+``        ...+mddo--.......:syyyyyyyyyyyyyyyy"<<"                                       ysssssssssssos+``        ...+mddo--.......:syyyyyyyyyyyyyyyy"<<endl;
+cout<<"yhyssssssssssos-` ```   ````+dhd.```.``.../ssyyyyyyyyyhhhyys"<<"                                       yhyssssssssssos-` ```   ````+dhd.```.``.../ssyyyyyyyyyhhhyys"<<endl;
+cout<<"sssyysssssyssss+``` `` ``` -hhhd/`````.```osyyyyyyyyhhyyyyyy"<<"                                       sssyysssssyssss+``` `` ``` -hhhd/`````.```osyyyyyyyyhhyyyyyy"<<endl;
+cout<<"yyyssyssssssssso.````````` yyhhdh````````.ssyyyyyyyyyyyyyyys"<<"                                       yyyssyssssssssso.````````` yyhhdh````````.ssyyyyyyyyyyyyyyys"<<endl;
+cout<<"ssssssssssssssss/`````````.hhhhdd:```````:sssyyyysyyyyyyyyyy"<<"                                       ssssssssssssssss/`````````.hhhhdd:```````:sssyyyysyyyyyyyyyy"<<endl;
+getch();
+}
