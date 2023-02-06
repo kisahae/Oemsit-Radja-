@@ -13,13 +13,14 @@ A human wins againts an ant
 <br>An Elephant wins againts a human
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/112599839/216900685-2cff3b79-8c9b-4dc1-ad04-80dab1309d06.png)
+<h1>Preview</h1>
+<img src="https://user-images.githubusercontent.com/112599839/216900685-2cff3b79-8c9b-4dc1-ad04-80dab1309d06.png" alt="Game Demo">
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/112599839/216901143-5f3bd8cf-356a-4ce0-b93c-12dedd33e19a.png)
+<img src="https://user-images.githubusercontent.com/112599839/216901143-5f3bd8cf-356a-4ce0-b93c-12dedd33e19a.png" alt="Game Demo">
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/112599839/216901265-afcef5c2-e11b-4167-8b0d-7cfa928ff27e.png)
+<img src="https://user-images.githubusercontent.com/112599839/216901265-afcef5c2-e11b-4167-8b0d-7cfa928ff27e.png" alt="Game Demo">
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/112599839/216901435-67ff9360-6a52-4f14-b4ac-618d04cf6ebe.png)
+<img src="https://user-images.githubusercontent.com/112599839/216901435-67ff9360-6a52-4f14-b4ac-618d04cf6ebe.png" alt="Game Demo">
